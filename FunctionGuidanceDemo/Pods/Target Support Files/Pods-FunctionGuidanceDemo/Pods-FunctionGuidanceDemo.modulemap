@@ -1,0 +1,6 @@
+framework module Pods_FunctionGuidanceDemo {
+  umbrella header "Pods-FunctionGuidanceDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
